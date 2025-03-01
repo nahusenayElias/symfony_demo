@@ -125,7 +125,7 @@ symfony console doctrine:fixtures:load
 
 
 --------------------------------------------------------------------------------------
-### Notes on fixing git commit of dependencies & security vulnerablities
+### Notes on fixing accidental git commit of dependencies & security vulnerablities
 
 **Step 1**
 - remove committed files one by one:
